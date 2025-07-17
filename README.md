@@ -96,7 +96,7 @@ Place these files in the same directory for enhanced experience:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This is an open source project.
 
 ## Acknowledgments
 
@@ -104,5 +104,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons and emojis for a delightful user experience
 
 ---
+
+🧑‍💻 Built By
+
+Harsh Bhimra — Student. DevOps Learner. Python dude. Cat enjoyer.
+Give it a ⭐ if this made you 1% more productive.
 
 **Stay focused. Stay productive. 🍅**
