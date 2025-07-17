@@ -52,9 +52,9 @@ pyinstaller --onefile --windowed --add-data "cats.png;." --add-data "cat-cat-sno
 4. **Stay in the zone**: Every 4th session triggers a longer break
 
 ### Default Settings
-- Work: 25 minutes
-- Short Break: 5 minutes  
-- Long Break: 15 minutes
+- Work: 50 minutes
+- Short Break: 10 minutes  
+- Long Break: 30 minutes
 
 ## Controls
 
